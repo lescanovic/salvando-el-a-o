@@ -1,27 +1,13 @@
-#container {
-  text-align: center;
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+ion-header{
+  background-color: #8AB7E2;
 
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+}
+ion-button{
+  border-radius: 10px;
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
-}
-
-#container p {
-  font-size: 16px;
-  line-height: 22px;
-
-  color: #8c8c8c;
-
-  margin: 0;
-}
-
-#container a {
-  text-decoration: none;
-}
